@@ -4,17 +4,28 @@
 
 font-weight: bold;
 font-size: 15px;
-font-variant: small-caps;
-font-family: 'Trebuchet MS';
-
-
+font-family: 'Oswald';
 
 
 }
 
-#repos {
-    font-family: 'Segoe UI';
+h3 {
+    font-family: 'Oswald';
     font-size: 15px;
+    
+}
+
+#ARR {
+    color: white
+}
+
+
+
+
+#repos {
+    font-family: 'Oswald';
+    font-size: 15px;
+    
 }
 
 h2 {
