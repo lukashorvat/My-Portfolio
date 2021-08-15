@@ -21,6 +21,11 @@ h3 {
     color: white;
     
 }
+#welcome {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: underline;
+}
 
 #ARR {
     color: white
