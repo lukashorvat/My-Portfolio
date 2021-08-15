@@ -4,13 +4,19 @@
 
 font-weight: bold;
 font-size: 15px;
-font-family: 'Oswald';
+
 
 
 }
 
-h3 {
+h1 {
     font-family: 'Oswald';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h3 {
+    
     font-size: 15px;
     
 }
@@ -23,7 +29,7 @@ h3 {
 
 
 #repos {
-    font-family: 'Oswald';
+    
     font-size: 15px;
     
 }
@@ -35,3 +41,4 @@ h2 {
 p1  {
     
 }
+
