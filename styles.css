@@ -7,6 +7,15 @@ font-size: 15px;
 
 }
 
+#gitLink1 {
+    color: red;
+}
+
+#liLink1 {
+    color: red;
+
+}
+
 #myEmail {
     font-weight: bold;
     text-decoration-line: underline;
