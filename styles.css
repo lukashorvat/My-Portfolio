@@ -9,15 +9,16 @@ font-size: 15px;
 
 }
 
+
+
 h1 {
-    font-family: 'Oswald';
-    font-size: 40px;
-    font-weight: bold;
+    color: white;
 }
 
 h3 {
     
     font-size: 15px;
+    color: white;
     
 }
 
@@ -35,10 +36,26 @@ h3 {
 }
 
 h2 {
+    color: white;
 
 }
 
 p1  {
+    
+}
+
+footer {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
